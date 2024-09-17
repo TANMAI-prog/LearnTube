@@ -1,0 +1,36 @@
+html{
+    background-image: url('./images/pexels-photo-1103970.webp');
+}
+h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    
+}
+.para{
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.cta-button {
+    background-color: #ff6347; 
+    color: white; 
+    padding: 0.75rem 1.5rem; 
+    text-decoration: none;
+    border-radius: 5px; 
+    font-size: 1.2rem; 
+    display: inline-block; 
+    margin-top: 1.5rem; 
+    transition: background-color 0.3s ease;
+    
+}
+.start{
+    text-align: center;
+}
+.cta-button:hover {
+    background-color: #d66238; 
+}
